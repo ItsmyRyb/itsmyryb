@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **itsmyryb@gmail.com**
 
-- 📄 Know about my experiences https://rb.gy/0uya6
+- 📄 Know about my [Experiences](https://rb.gy/0uya6)
 
 - ⚡ Fun fact Crazy Moderator On [Discord](https://discord.gg/ukwAv7ETKx)
 
