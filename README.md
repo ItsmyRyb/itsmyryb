@@ -18,7 +18,7 @@
 
 - 👯 I’m looking to collaborate on Airdrop Project [ItsmyRyb](https://linktr.ee/ItsmyRyb)
 
-- 🤝 I’m looking for help with Airdrop **Research**
+- 🤝 I’m looking for help with [Airdrop Research](https://linktr.ee/ItsmyRyb)
 
 - 👨‍💻 All of my projects are available at [ItsmyRyb](https://linktr,ee/ItsmyRyb)
 
