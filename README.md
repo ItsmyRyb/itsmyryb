@@ -28,7 +28,7 @@
 
 - 📄 Know about my experiences https://rb.gy/0uya6
 
-- ⚡ Fun fact **Crazy Moderator On Discord**
+- ⚡ Fun fact **Crazy Moderator On Discord** ([https://t.me/JurigAirdrops](https://discord.gg/ukwAv7ETKx))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
