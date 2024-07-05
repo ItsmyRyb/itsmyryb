@@ -20,15 +20,15 @@
 
 - 🤝 I’m looking for help with Airdrop **Research**
 
-- 👨‍💻 All of my projects are available at [https://linktr.ee/ItsmyRyb](https://linktr.ee/ItsmyRyb)
+- 👨‍💻 All of my projects are available at [ItsmyRyb](https://linktr,ee/ItsmyRyb)
 
-- 📝 I regularly write articles on [https://linktr.ee/ItsmyRyb](https://linktr.ee/ItsmyRyb)
+- 📝 I regularly write articles on [ItsmyRyb](https://linktr,ee/ItsmyRyb)
 
 - 📫 How to reach me **itsmyryb@gmail.com**
 
 - 📄 Know about my experiences https://rb.gy/0uya6
 
-- ⚡ Fun fact **Crazy Moderator On Discord** [https://discord.gg/ukwAv7ETKx]https://discord.gg/ukwAv7ETKx
+- ⚡ Fun fact Crazy Moderator On [Discord](https://discord.gg/ukwAv7ETKx)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
