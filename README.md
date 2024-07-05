@@ -3,7 +3,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ItsmyRyb&theme=monokai"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatriaAPN&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
-<h1 align="center">Hi 👋, I'm ItsmyRyb</h1>
+<h1 align="center">Hi 👋🏻 I'm ItsmyRyb</h1>
 <h3 align="center">Airdrop Hunter & Moderator Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmyryb&label=Profile%20views&color=0e75b6&style=flat" alt="itsmyryb" /> </p>
