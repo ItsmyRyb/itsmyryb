@@ -16,7 +16,7 @@
 
 - 🌱 I’m currently learning **Research,Editing,Design,Moderator**
 
-- 👯 I’m looking to collaborate on Airdrop Project [ItsmyRyb](https://linktr.ee/ItsmyRyb)
+- 👯 I’m looking to collaborate on [ItsmyRyb](https://linktr.ee/ItsmyRyb)
 
 - 🤝 I’m looking for help with [Airdrop Research](https://linktr.ee/ItsmyRyb)
 
