@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋 I'm itsmyryb</h1>
 <h3 align="center">A passionate frontend airdrop hunting from indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmyryb&label=Profile%20views&color=0e75b6&style=flat" alt="itsmyryb" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmyryb" alt="itsmyryb" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/itsmyryb" target="blank"><img src="https://img.shields.io/twitter/follow/itsmyryb?logo=twitter&style=for-the-badge" alt="itsmyryb" /></a> </p>
+<p align="left"> <a href="https://twitter.com/itsmyryb" target="blank"><img src="https://img.shields.io/twitter/follow/itsmyryb?logo=twitter&style=for-the-badge" alt="itsmyryb"/></a></p>
+<p align="center">
+  <img width="660" src="https://user-images.githubusercontent.com/6661165/92327052-d99b9e00-f091-11ea-9a24-c7ec86982370.png">
+</p>
 
 - 🔭 I’m currently working on [Airdrop Hunting](https://itsmerins.vercel.app/)
 
